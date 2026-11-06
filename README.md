@@ -6,7 +6,7 @@
 ## Chapter 1 : Phase Line Alfa
 
 ### Module 1 : APT 29 Adversary Emulation Development
-#### Chapter 1 : Token Duplication and Fileless Execution 
+#### Part 1 : Token Duplication and Fileless Execution 
 ##### File : https://github.com/hackerevillarry/The_Drunken_Master-Cyber_Winter_Series/blob/main/Chapter1_Module1_Part1.pdf
 
 
