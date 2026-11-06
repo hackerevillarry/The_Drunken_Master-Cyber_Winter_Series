@@ -5,5 +5,6 @@
 
 ## Chapter 1 : Phase Line Alfa
 
-### Module 1 : APT 29 Adversary Emulation 
-#### Find it here in this repo : https://github.com/hackerevillarry/APT_29_Adversary_Emulation
+### Module 1 : APT 29 Adversary Emulation Development
+#### Chapter 1 : Token Duplication and Fileless Execution 
+##### File : 
