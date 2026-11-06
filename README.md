@@ -7,4 +7,6 @@
 
 ### Module 1 : APT 29 Adversary Emulation Development
 #### Chapter 1 : Token Duplication and Fileless Execution 
-##### File : 
+##### File : https://github.com/hackerevillarry/The_Drunken_Master-Cyber_Winter_Series/blob/main/Part_1_Token_Duplication_%26_Fileless_Execution.pdf
+
+
