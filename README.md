@@ -9,4 +9,7 @@
 #### Part 1 : Token Duplication and Fileless Execution 
 ##### File : https://github.com/hackerevillarry/The_Drunken_Master-Cyber_Winter_Series/blob/main/Chapter1_Module1_Part1.pdf
 
+#### Part 2 : Surveillance Multi Stage Powershell Implant
+##### File : https://github.com/hackerevillarry/The_Drunken_Master-Cyber_Winter_Series/blob/main/Chapter1_Module1_Part2.pdf
+
 
